@@ -1,4 +1,4 @@
-# Documentation on interaction of WP2 with other WP's and outside world.
+# Documentation on interactions of WP2
 
 CLARIAH consists of 5 working packages as described in the Table 1.
 
@@ -21,5 +21,5 @@ Within CLARIAH, WP2 is connected to the other working packages through API's. Th
 Beyond CLARIAH, WP2 is connected to datahubs such as [Europeana](http://www.europeana.eu/portal/) and [DBpedia](http://wiki.dbpedia.org). In addition to the API's users will be able to select, extract and visualize data through a GUI connected to WP2.
 
 
-> Figure 1 was made using [yEd](http://www.yworks.com/en/products/yfiles/yed/) freely available for Windows/Linux/Mac. The raw file that can be edited sits in the same directory as this file: ./wp2_schematic.graphml.
+> Figure 1 was made using [yEd](http://www.yworks.com/en/products/yfiles/yed/) freely available for Windows/Linux/Mac. The raw file that can be edited is [wp2_schematic.graphml](https://github.com/CLARIAH/wp2_interaction/blob/master/wp2_schematic.graphml).
 
