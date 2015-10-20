@@ -14,7 +14,7 @@ CLARIAH consists of 5 working packages as described in the Table 1.
 
 WP2 provides the overarching structure in Clariah and plays a central role in the communication amongst the working packages as visualized in Figure 1. 
 
-![figure1](./wp2_schematic.svg "WP2 Interactions Schematic")
+![figure1](https://github.com/CLARIAH/wp2_interaction/blob/master/wp2_schematic.svg "WP2 Interactions Schematic")
 
 Within CLARIAH, WP2 is connected to the other working packages through API's. The information exchange between the working packages goes in both directions as all working packages will provide data and vocabularies (ontologies). This goes for WP2 as well. While responsible for common concepts, such as '*where*' (locations) and '*what*' (thesauri, for example on occupations), WP2 will also provide content based on the individuals from the [Biografisch Portaal van Nederland](http://www.biografischportaal.nl) and the [Historische Steekproef Nederland](http://www.iisg.nl/hsn/index.html), the latter through authentication and registration procedures, also part of WP2.
 
